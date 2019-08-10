@@ -1,18 +1,16 @@
-# Piratpartiets kjerneprogram
+# Piratpartiets partiprogram
 
-Vedtatt 17. mars 2013. Sist oppdatert 9. desember 2018.
+Vedtatt 17. mars 2013. Sist oppdatert X. Y 2019.
 
 ## Piratkodeksen
 
-Piratkodeksen danner grunnlaget for kjerneprogrammet og valgprogrammet til Piratpartiet.
+Piratkodeksen danner et verdigrunnlag for partiprogrammet til Piratpartiet.
 
 [Les Piratkodeksen her.](https://www.piratpartiet.no/kjerneprogrammet/politikken-var/piratkodeksen/)
 
 ## Grunnlag for piratpolitikk
 
 > Piratpartiet mener kunnskap og kultur skal deles og gjenbrukes, at individets rettigheter skal forsvares, og at Internett muliggjør en mer direkte og demokratisk politisk modell.
-
-> Piratpartiet tilbyr ikke ferdige løsninger, men metodene for å finne dem.
 
 ### Menneskerettigheter og borgerrettigheter
 
@@ -33,10 +31,10 @@ Våre prinsipper og standpunkter er organisert i søyler:
 - Kommunikasjon og infrastruktur
 - Kunnskap og kultur
 - Forskning og innovasjon
-- Utdanning
+- Skole og Utdanning
 - Næringsliv og økonomi
 - Klima og miljø
-- Helse
+- Helse og familie
 
 I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
 
@@ -55,7 +53,7 @@ I den grad private aktører skal forvalte ressurser og tjenester på vegne av de
 - Gjøre offentlige postjournaler tilgjengelig på Internett uten å måtte be om innsyn.
 - Kreve at kontrakter mellom det offentlige og private publiseres i åpent format.
 - Publisere offentlige data med gjenbrukbar lisens, bare personvern og rikets sikkerhet kan stanse publisering.
-- Innføre 3-dagersfrist på innsyn etter offentleglova. Fylkesmannen skal ilegge dagbøter etter 5 dager ved overtredelse.
+- Innføre 5-dagersfrist på innsyn etter offentleglova. Fylkesmannen skal ilegge dagbøter etter 14 dager ved overtredelse.
 - Alle offentlige virksomheter skal ha tilgang på fagkompetanse som jobber dedikert med anskaffelser og
 implementering av IKT. Disse skal ha fagkompetanse på kundesiden og være nøytrale/habile.
 - Til enhver tid ha oversikt over bruk av underleverandører ved anskaffelse og drift av IT-systemer som behandler
@@ -63,7 +61,7 @@ sensitive personopplysninger (gjennom databehandleravtaler).
 - Kreve at digitale 3D-modeller vedlegges byggesøknader med ansvarsrett (tiltak uten ansvarsrett kan søkes uten 3D-modeller).
 - Gi bindende folkeavstemninger grunnlovsvern.
 - Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
-- La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
+- La vanlige folk få legge frem forslag som Stortinget, kommunestyre, og fylkesting må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
 - Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
@@ -104,9 +102,9 @@ Stat og kommune må bli bedre til å samarbeide om bosetting av flyktninger slik
 
 Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt overfor barn.
 
-At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
+At noen har oppgitt feil opplysninger på asylsøknaden skal ikke føre til reversering av permanent oppholdstillatelse eller norsk statsborgerskap.
 
-### 1.4. Boligpolitikk
+### 1.4. Alternativ boligpolitikk
 
 Gjør det lovlig å bo i minihus og å bygge dem selv, så lenge de ikke er koblet til strømnettet og kloakk. Et hus på en henger eller «offgrid» skal det være lov å bygge og bo i, selv opp til 40 kvadratmeter, uten å søke stat eller kommune. Dette forutsetter at man har bruksrett eller tillatelse fra grunneier og at huset er mobilt i den grad at det kan transporteres langs vei eller vann uten permanente miljøkonsekvenser.
 
